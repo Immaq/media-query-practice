@@ -10,3 +10,13 @@ img.introduction {
     background: scroll;
     background-color: crimson;
 }
+@media screen and (min-width: 768px) {
+  body {
+    background-color: yellowgreen;
+  }
+  .introduction {
+    width: 220px;
+    float: left;
+    padding: 15px;
+  }
+}
