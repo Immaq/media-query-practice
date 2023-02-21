@@ -15,8 +15,11 @@ img.introduction {
     background-color: yellowgreen;
   }
   .introduction {
-    width: 220px;
+    width: 300px;
     float: left;
     padding: 15px;
+  }
+  img {
+    width: 300px;
   }
 }
